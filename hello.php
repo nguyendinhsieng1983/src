@@ -7,7 +7,7 @@
 </head>
 <body>
 
-
+<!-- this is printing hello Mr Andy -->
 <?php
 // this is printing hello Mr Andy
 /*mutiple
