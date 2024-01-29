@@ -17,7 +17,7 @@
                 <div class="row"> 
                     <nav class="menu">
                         <div class="logo">
-                            <a href="/Portfolio_Project/"><img class="header-logo" alt="G6 Portfolio Logo" src="image/favicon_io/header-favicon-32x32.png"></a>
+                            <a href="/Portfolio_Project/"><img class="header-logo" alt="G6 Portfolio Logo" src="images/favicon_io/header-favicon-32x32.png"></a>
                         </div>
                         <input type="checkbox" id="check">
                         <label for="check" class="checkbtn">
